@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa35e7ff.css",
+    "main.js": "/static/js/main.28ec09bf.js",
+    "static/media/bbb.png": "/static/media/bbb.0694e7fa416a36017113.png",
+    "static/media/klol.png": "/static/media/klol.21a1de83fbc917af85e4.png",
+    "static/media/bluetransport.jpg": "/static/media/bluetransport.5c8c9854a780063445af.jpg",
+    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/nature.jpg": "/static/media/nature.c229a4bcaeb019d51559.jpg",
+    "static/media/business.jpg": "/static/media/business.9d4a0918ff7477c4b502.jpg",
+    "static/media/payment.jpg": "/static/media/payment.b257a27df0f7834b1394.jpg",
+    "static/media/trans.jpg": "/static/media/trans.309849953679b551da01.jpg",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/myporr.jpg": "/static/media/myporr.d480c2bf41cfbba1dfb3.jpg",
+    "static/media/Omueti-Nelson.pdf": "/static/media/Omueti-Nelson.ccb2e96814409606275b.pdf",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/logo.jpg": "/static/media/logo.9faa6890d102813e7a56.jpg",
+    "index.html": "/index.html",
+    "main.fa35e7ff.css.map": "/static/css/main.fa35e7ff.css.map",
+    "main.28ec09bf.js.map": "/static/js/main.28ec09bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa35e7ff.css",
+    "static/js/main.28ec09bf.js"
+  ]
+}
